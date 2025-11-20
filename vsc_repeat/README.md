@@ -1,6 +1,7 @@
 # VSC-Repeat
 
-This part of the repository is essentially a fork of the original Cambrian-S repository from here: https://github.com/cambrian-mllm/cambrian-s. The original README.md file (with some minimal modifications) is here: https://github.com/bethgelab/supersanity/blob/main/vsc_repeat/README_original.md. We describe the main set of steps required to reproduce the VSC-Repeat results here and defer other details to the original README and repository.
+This part of the repository is essentially a fork of the original Cambrian-S repository from here: https://github.com/cambrian-mllm/cambrian-s. 
+The original README.md file (with some minimal modifications) is [here](https://github.com/bethgelab/supersanity/blob/main/vsc_repeat/README_original.md). We describe the main set of steps required to reproduce the VSC-Repeat results here and defer other details to the original README and repository.
 
 ## Installation
 
