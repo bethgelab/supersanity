@@ -1,0 +1,51 @@
+doc_id,video_path,question,ground_truth,prediction_original,prediction_repeat1,prediction_repeat2,prediction_repeat5
+0,10mins/00000000.mp4,How many different socket(s) are there in the video?,27.0,28.0,58.0,86.0,160.0
+1,10mins/00000001.mp4,How many different chair(s) are there in the video?,21.0,8.0,17.0,28.0,55.0
+2,10mins/00000002.mp4,How many different chair(s) are there in the video?,75.0,40.0,112.0,136.0,272.0
+3,10mins/00000003.mp4,How many different chair(s) are there in the video?,51.0,52.0,98.0,141.0,300.0
+4,10mins/00000004.mp4,How many different chair(s) are there in the video?,37.0,24.0,58.0,95.0,208.0
+5,10mins/00000005.mp4,How many different ceiling light(s) are there in the video?,31.0,37.0,80.0,121.0,230.0
+6,10mins/00000006.mp4,How many different table(s) are there in the video?,32.0,20.0,42.0,72.0,151.0
+7,10mins/00000007.mp4,How many different chair(s) are there in the video?,32.0,35.0,62.0,82.0,162.0
+8,10mins/00000008.mp4,How many different chair(s) are there in the video?,31.0,32.0,58.0,101.0,204.0
+9,10mins/00000002.mp4,How many different socket(s) are there in the video?,21.0,26.0,56.0,72.0,146.0
+10,10mins/00000009.mp4,How many different chair(s) are there in the video?,43.0,34.0,65.0,109.0,207.0
+11,10mins/00000010.mp4,How many different chair(s) are there in the video?,33.0,54.0,83.0,104.0,228.0
+12,10mins/00000011.mp4,How many different ceiling light(s) are there in the video?,47.0,32.0,72.0,122.0,272.0
+13,10mins/00000012.mp4,How many different chair(s) are there in the video?,35.0,34.0,69.0,110.0,206.0
+14,10mins/00000013.mp4,How many different chair(s) are there in the video?,25.0,23.0,43.0,71.0,111.0
+15,10mins/00000014.mp4,How many different chair(s) are there in the video?,53.0,23.0,48.0,63.0,130.0
+16,10mins/00000015.mp4,How many different ceiling light(s) are there in the video?,29.0,22.0,40.0,62.0,118.0
+17,10mins/00000016.mp4,How many different computer tower(s) are there in the video?,30.0,28.0,48.0,86.0,186.0
+18,10mins/00000005.mp4,How many different chair(s) are there in the video?,37.0,40.0,80.0,120.0,226.0
+19,10mins/00000017.mp4,How many different chair(s) are there in the video?,25.0,28.0,60.0,80.0,165.0
+20,10mins/00000018.mp4,How many different socket(s) are there in the video?,30.0,16.0,32.0,56.0,112.0
+21,10mins/00000015.mp4,How many different socket(s) are there in the video?,26.0,14.0,24.0,38.0,66.0
+22,10mins/00000019.mp4,How many different socket(s) are there in the video?,24.0,14.0,20.0,32.0,64.0
+23,10mins/00000020.mp4,How many different pillow(s) are there in the video?,35.0,24.0,50.0,74.0,168.0
+24,10mins/00000001.mp4,How many different monitor(s) are there in the video?,23.0,22.0,48.0,74.0,148.0
+25,10mins/00000021.mp4,How many different monitor(s) are there in the video?,17.0,10.0,17.0,36.0,84.0
+26,10mins/00000022.mp4,How many different table(s) are there in the video?,13.0,18.0,31.0,48.0,106.0
+27,10mins/00000023.mp4,How many different chair(s) are there in the video?,16.0,21.0,35.0,48.0,93.0
+28,10mins/00000024.mp4,How many different trash bin(s) are there in the video?,11.0,20.0,38.0,58.0,126.0
+29,10mins/00000025.mp4,How many different chair(s) are there in the video?,14.0,14.0,23.0,34.0,65.0
+30,10mins/00000021.mp4,How many different chair(s) are there in the video?,15.0,8.0,13.0,26.0,64.0
+31,10mins/00000026.mp4,How many different chair(s) are there in the video?,20.0,14.0,26.0,39.0,73.0
+32,10mins/00000027.mp4,How many different ceiling light(s) are there in the video?,20.0,16.0,24.0,40.0,72.0
+33,10mins/00000028.mp4,How many different fan or exhaust fan(s) are there in the video?,11.0,18.0,28.0,42.0,84.0
+34,10mins/00000001.mp4,How many different table(s) are there in the video?,18.0,8.0,16.0,27.0,53.0
+35,10mins/00000014.mp4,How many different ceiling light(s) are there in the video?,12.0,33.0,69.0,95.0,184.0
+36,10mins/00000021.mp4,How many different ceiling light(s) are there in the video?,15.0,6.0,11.0,22.0,55.0
+37,10mins/00000021.mp4,How many different keyboard(s) are there in the video?,10.0,6.0,10.0,20.0,48.0
+38,10mins/00000029.mp4,How many different ceiling light(s) are there in the video?,10.0,18.0,36.0,56.0,113.0
+39,10mins/00000030.mp4,How many different table(s) are there in the video?,14.0,20.0,41.0,54.0,106.0
+40,10mins/00000031.mp4,How many different monitor(s) are there in the video?,20.0,23.0,31.0,45.0,94.0
+41,10mins/00000016.mp4,How many different monitor(s) are there in the video?,13.0,33.0,57.0,93.0,196.0
+42,10mins/00000032.mp4,How many different monitor(s) are there in the video?,16.0,45.0,78.0,116.0,243.0
+43,10mins/00000033.mp4,How many different chair(s) are there in the video?,19.0,33.0,63.0,100.0,176.0
+44,10mins/00000003.mp4,How many different table(s) are there in the video?,16.0,31.0,62.0,82.0,177.0
+45,10mins/00000020.mp4,How many different chair(s) are there in the video?,12.0,17.0,35.0,51.0,115.0
+46,10mins/00000034.mp4,How many different table(s) are there in the video?,12.0,11.0,22.0,33.0,66.0
+47,10mins/00000035.mp4,How many different socket(s) are there in the video?,14.0,16.0,36.0,62.0,108.0
+48,10mins/00000013.mp4,How many different keyboard(s) are there in the video?,17.0,16.0,31.0,51.0,83.0
+49,10mins/00000036.mp4,How many different chair(s) are there in the video?,13.0,28.0,51.0,81.0,168.0
