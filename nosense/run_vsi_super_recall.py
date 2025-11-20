@@ -131,7 +131,7 @@ if __name__ == "__main__":
     parser.add_argument('--model', type=str, required=True, choices=list(CLIP_MODELS.keys()))
     parser.add_argument('--test_split', type=int, required=True, choices=[10, 30, 60, 120, 240])
     parser.add_argument('--gpu_bs', type=int, required=False, default=512)
-    parser.add_argument('--data_root', type=str, required=False, default="/p/data1/datasets/mmlaion/vudandar_tests/vsi_benchmark/vsi-super-recall/")
+    parser.add_argument('--data_root', type=str, required=False, default="./vsi-super-recall/")
     args = parser.parse_args()
 
     parquet_path = f"{args.data_root}test_{args.test_split}mins.parquet"
